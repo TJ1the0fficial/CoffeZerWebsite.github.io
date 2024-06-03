@@ -76,3 +76,38 @@ p{
     border-radius: 65px;
 
 }
+
+/*div szöveg margók (class)
+
+dc1 == div character 1
+
+*/
+
+.dc1{
+
+    margin-left: 150px;
+    margin-right: 100px;
+
+
+}
+
+/*pf == pharagraph font*/
+
+.pf{
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#a1{
+
+    color: aquamarine;
+    transition: 0.3s;
+}
+
+#a1:hover{
+
+    color: rgb(255, 255, 255);
+    background-color:darkcyan ;
+
+}
