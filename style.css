@@ -3,8 +3,8 @@
     background-color: rgb(28, 77, 60);
     padding-top: 50px;
     padding-bottom: 50px;
-    width: 100%;
     color: rgb(28, 77, 60);
+    
     
 
 }
@@ -44,5 +44,35 @@ p{
     padding-left: 20px;
     padding-right: 20px;
     color: rgb(76, 77, 77);
+    transition: 0.3s;
+
+}
+
+.hb:hover{
+
+    background-color: aqua;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15px;
+    
+
+}
+
+/* vh == video hover */
+
+.vh{
+
+    height: 315px;
+    width: 560px;
+    transition: 0.5s;
+    border-radius: 15px;
+
+}
+
+.vh:hover{
+
+    height: 365px;
+    width: 600px;
+    border-radius: 65px;
 
 }
